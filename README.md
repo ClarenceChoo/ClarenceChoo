@@ -1,18 +1,61 @@
-<h1 align="center">Hi 👋, I'm Clarence</h1>
-<h3 align="center">I enjoy building projects to solve real world problems!</h3>
+<h1 align="center">Clarence Choo</h1>
 
-- 🔭 I’m currently working on [Workout-Tracking-Web-App](https://clarencechoo.github.io/Workout-Tracking-Web-App)
+<p align="center">
+  <strong>Computer Science @ NUS</strong><br />
+  Full-stack engineering · Applied AI · Open-source learner
+</p>
 
-- 👨‍💻 All of my projects are available at [https://clarencechoo.github.io/portfolio-website](https://clarencechoo.github.io/portfolio-website)
+<p align="center">
+  I build practical software, usually starting with a real problem and a fast prototype.
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ClarenceChoo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ClarenceChoo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ClarenceChoo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://clarencechoo.github.io/portfolio-website"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/clarence-choo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ClarenceChoo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## About me
+
+I'm a Computer Science undergraduate at the **National University of Singapore**, based in Singapore. I enjoy building full-stack products and practical AI systems with a strong focus on the people using them.
+
+> 🌱 **Currently:** exploring open source through [react-admin](https://github.com/marmelab/react-admin)—learning the codebase in [my fork](https://github.com/ClarenceChoo/react-admin) and looking for a good first contribution.
+
+## Projects worth mentioning
+
+| Project | What it does | Recognition |
+| :--- | :--- | :--- |
+| **[Granted](https://github.com/ClarenceChoo/Granted)** | Matches non-profits with relevant grants and sends deadline-aware funding digests. | 🥈 **2nd Place**<br>Hack4Good 2026 |
+| **[Trace](https://github.com/TYH71/Trace)** | Indexes CCTV footage and enables natural-language search across video events. | 🥈 **2nd Place**<br>Ship It Hacks 2026 |
+| **[Supersede](https://github.com/ClarenceChoo/Supersede)** | Turns construction-site footage into safety insights and searchable incident reports. | 🏅 **Finalist**<br>Sup' Build 2026 |
+| **[RateMyNUS](https://github.com/ClarenceChoo/RateMyNUS)** | A community review platform for the NUS campus experience. | ⚡ **Hack&Roll 2026** |
+| **[Attendify](https://github.com/ClarenceChoo/Attendify)** | Secures attendance with rotating signed QR codes and live organiser dashboards. | 📅 **Student Life Track Hackathon 2026** |
+
+## GitHub stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ClarenceChoo&amp;theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ClarenceChoo&amp;theme=github" alt="Clarence Choo's public GitHub statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClarenceChoo&amp;theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClarenceChoo&amp;theme=github" alt="Languages across Clarence Choo's public GitHub repositories" />
+  </picture>
+</p>
+
+<p align="center"><sub>Stats reflect public GitHub activity. Language distribution measures repositories, not proficiency.</sub></p>
+
+## Tech stack
+
+- 💻 &nbsp; **Languages:** <img src="https://img.shields.io/badge/TypeScript-333333?style=flat&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" height="20" /> <img src="https://img.shields.io/badge/JavaScript-333333?style=flat&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" height="20" /> <img src="https://img.shields.io/badge/C%23-333333?style=flat&amp;logo=csharp&amp;logoColor=9B4F96" alt="C Sharp" height="20" /> <img src="https://img.shields.io/badge/Python-333333?style=flat&amp;logo=python&amp;logoColor=3776AB" alt="Python" height="20" /> <img src="https://img.shields.io/badge/Java-333333?style=flat&amp;logo=openjdk&amp;logoColor=ED8B00" alt="Java" height="20" /> <img src="https://img.shields.io/badge/SQL-333333?style=flat&amp;logo=postgresql&amp;logoColor=4169E1" alt="SQL" height="20" />
+- 🧩 &nbsp; **Frameworks & runtime:** <img src="https://img.shields.io/badge/React-333333?style=flat&amp;logo=react&amp;logoColor=61DAFB" alt="React" height="20" /> <img src="https://img.shields.io/badge/Node.js-333333?style=flat&amp;logo=nodedotjs&amp;logoColor=5FA04E" alt="Node.js" height="20" /> <img src="https://img.shields.io/badge/ASP.NET_Core-333333?style=flat&amp;logo=dotnet&amp;logoColor=512BD4" alt="ASP.NET Core" height="20" /> <img src="https://img.shields.io/badge/Express-333333?style=flat&amp;logo=express&amp;logoColor=white" alt="Express" height="20" />
+- 🗄️ &nbsp; **Data & platforms:** <img src="https://img.shields.io/badge/Firebase-333333?style=flat&amp;logo=firebase&amp;logoColor=FFCA28" alt="Firebase" height="20" /> <img src="https://img.shields.io/badge/PostgreSQL-333333?style=flat&amp;logo=postgresql&amp;logoColor=4169E1" alt="PostgreSQL" height="20" /> <img src="https://img.shields.io/badge/Azure-333333?style=flat&amp;logo=microsoftazure&amp;logoColor=0078D4" alt="Azure" height="20" /> <img src="https://img.shields.io/badge/Vercel-333333?style=flat&amp;logo=vercel&amp;logoColor=white" alt="Vercel" height="20" />
+- 🛠️ &nbsp; **AI & tools:** <img src="https://img.shields.io/badge/OpenAI_API-333333?style=flat&amp;logo=openai&amp;logoColor=white" alt="OpenAI API" height="20" /> <img src="https://img.shields.io/badge/Git-333333?style=flat&amp;logo=git&amp;logoColor=F05032" alt="Git" height="20" /> <img src="https://img.shields.io/badge/ffmpeg-333333?style=flat&amp;logo=ffmpeg&amp;logoColor=007808" alt="ffmpeg" height="20" />
+
+---
+
+## Connect
+
+See more of my work on my [portfolio](https://clarencechoo.github.io/portfolio-website), or connect with me on [LinkedIn](https://www.linkedin.com/in/clarence-choo/).
